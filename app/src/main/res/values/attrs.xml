@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OutgoingUIView">
+        <attr name="maxWidth" format="integer" />
+        <attr name="fontsize" format="integer" />
+        <attr name="fontcolor" format="integer" />
+        <attr name="timeSize" format="integer" />
+        <attr name="timeColor" format="integer" />
+    </declare-styleable>
+</resources>
